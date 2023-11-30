@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+<!--    <Button-->
+<!--        android:id="@+id/selectImageButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Select Image" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/previewButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Preview"-->
+<!--        android:visibility="gone" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="200dp"-->
+<!--        android:background="@android:color/darker_gray"-->
+<!--        android:scaleType="centerCrop"-->
+<!--        android:contentDescription="@null" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/fileInfoTextView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text=""-->
+<!--        android:paddingTop="8dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/submitButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Submit"-->
+<!--        android:enabled="false"-->
+<!--        android:backgroundTint="@android:color/darker_gray"-->
+<!--        android:paddingTop="16dp" />-->
+
+</LinearLayout>
